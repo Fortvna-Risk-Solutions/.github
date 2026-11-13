@@ -1,93 +1,90 @@
-<div align="center">
-
-# Fortvna Risk Solutions
-
-**Risco integrado, por design.**
-
-Uma boutique de soluções em risco financeiro. Desenhamos, validamos e operamos a função de risco de instituições financeiras brasileiras — com método, discrição e instrumentos próprios.
-
-*Audentes Fortvna Iuvat*
-
-</div>
-
----
+<img src="assets/capa.jpg" alt="FORTVNA. Precisão para decisões de alto valor. Superinteligência para risco e negócios." width="100%">
 
 ## Sobre
 
-A Fortvna nasce na interseção de quem desenhou, validou e operou a função de risco por dentro. Não é parecer em PDF nem mão de obra alocada — é a função de risco desenhada como se desenha um produto: com método, forma e rigor de engenharia.
+A Fortvna Risk Solutions constrói superinteligência para decisões de risco. Cada solução é desenhada para o cliente, entra na operação e passa a trabalhar todos os dias. Do produtor rural ao banco, da microempresa à grande empresa.
 
-**Capital regulatório, crédito e mercado** no núcleo. **Liquidez e operacional** no entorno. Tudo sob a mesma tese: **risco integrado** — porque uma instituição não quebra por um risco isolado, quebra pela costura entre eles.
+## Produtos e soluções
+
+<table>
+<tr>
+<td width="38%"><img src="assets/agro.svg" alt="Ilustração: talhões agrícolas vistos do alto, dentro de uma lente circular." width="100%"></td>
+<td>
+<sub>SUPERINTELIGÊNCIA DO AGRONEGÓCIO</sub>
+<h3>Radiant Agro</h3>
+O Tião, a superinteligência do agronegócio, no WhatsApp do produtor. Lê foto de nota, áudio, planilha e PDF, lança na operação e confirma com o produtor.<br><br>
+Para bancos, cooperativas e seguradoras: o Índice Radiant de 0 a 1000, o dossiê de crédito e o Selo Radiant de conformidade socioambiental, conforme a Resolução CMN nº 5.268/2025.
+</td>
+</tr>
+<tr>
+<td><img src="assets/sim.svg" alt="Ilustração: população de agentes distribuída em anéis concêntricos, com uma trajetória destacada." width="100%"></td>
+<td>
+<sub>SIMULAÇÃO DE POPULAÇÕES</sub>
+<h3>Radiant Sim</h3>
+Simula populações inteiras de clientes, tomadores e mercados e registra cada decisão. A mesma semente produz o mesmo resultado em qualquer máquina, e cada cenário pode ser reproduzido byte a byte.<br><br>
+Estresse de carteira, comportamento de clientes, choques de mercado e mudanças de política, testados antes de acontecerem.
+</td>
+</tr>
+<tr>
+<td><img src="assets/fabric-models.svg" alt="Ilustração: fachada modernista com brise-soleil e um vão iluminado, como uma fábrica." width="100%"></td>
+<td>
+<sub>MODEL FACTORY AS A SERVICE</sub>
+<h3>Fabric-Models</h3>
+Agentes exploram os dados no ambiente do cliente, escolhem a família de modelo, constroem, otimizam e colocam o campeão contra os desafiantes e contra a política atual. O vencedor sai documentado, assinado e monitorado.<br><br>
+Crédito e score, PD, LGD, EAD e ECL da Resolução CMN nº 4.966/2021, mercado, liquidez, estresse e políticas de crédito. O dado não sai do ambiente do cliente.
+</td>
+</tr>
+<tr>
+<td><img src="assets/mevals.svg" alt="Ilustração: curva de calibração dentro do corredor previsto, réplicas da validação e um selo de aprovação em anéis." width="100%"></td>
+<td>
+<sub>MRM AS A SERVICE</sub>
+<h3>M-Evals</h3>
+Agentes independentes revisam de ponta a ponta modelos de crédito, mercado, liquidez, score, políticas, inferência causal e IA generativa: dados, solidez conceitual, desempenho, estabilidade, estresse e explicabilidade.<br><br>
+Cada conclusão é rastreável até o dado e o código, reproduzível e assinada digitalmente pelo validador responsável. Os controles seguem as Resoluções CMN nº 4.557/2017 e nº 4.966/2021, a SR 26-2, a PRA SS1/23 e o EU AI Act.
+</td>
+</tr>
+</table>
+
+## Agentes de IA
+
+<table>
+<tr>
+<td width="50%"><img src="assets/arx.svg" alt="Ilustração: rede de agentes conectados a um núcleo central." width="100%"></td>
+<td width="50%"><img src="assets/vault.svg" alt="Ilustração: cofre formado por quadrados concêntricos, com uma fechadura no centro." width="100%"></td>
+</tr>
+<tr>
+<td valign="top">
+<h3>ARX</h3>
+Runtime de agentes duráveis, em Rust. Agentes de WhatsApp e de back-office que não param: se o servidor cai, o agente retoma do ponto exato em que parou. Funciona com 23 provedores de IA, tem aprovação humana com um toque e cada ferramenta isolada no sistema operacional.
+</td>
+<td valign="top">
+<h3>VaultBrain</h3>
+A memória da empresa. Busca por significado, por termos exatos como CPF, CNPJ e números de contrato, e pelo histórico de fatos, sabendo o que valia em cada data. Dados isolados por cliente, na infraestrutura do cliente.
+</td>
+</tr>
+</table>
+
+## Consultoria e formação
+
+Cada projeto começa por um diagnóstico e tem escopo, prazo e entregáveis definidos na primeira conversa. Modelos, código e documentação ficam com o cliente.
+
+- Modelos sob medida com o Fabric-Models: crédito, mercado, liquidez e políticas de concessão, com documentação técnica
+- Validação independente de modelos com o M-Evals, com relatório de achados, plano de remediação e assinatura do validador
+- Segundo cérebro corporativo com o VaultBrain, sobre os documentos e as decisões da empresa
+- Palestras, mentorias e consultorias para empresários que querem usar superinteligência no próprio negócio
+
+## A quem atendemos
+
+Micro e pequenas empresas · Médias e grandes empresas · Agronegócio · Bancos médios, cooperativas e fintechs · FIDCs, gestoras e family offices
 
 ---
-
-## Método
-
-Toda função de risco que desenhamos passa por três tempos:
-
-| | Tempo | O que faz |
-|---|---|---|
-| **i** | **Desenhar** | Arquitetura da função de risco: framework, apetite, políticas, governança e equipe. Do organograma ao modelo, com forma e propósito. |
-| **ii** | **Validar** | Validação independente, challenger models, backtesting e conformidade sob 4.966, IFRS 9 e Basileia. O número que sobrevive ao comitê e ao regulador. |
-| **iii** | **Operar** | Cenários, stress testing e monitoramento contínuo — sustentados por instrumentos que seguem trabalhando. A decisão, ancorada em dado vivo. |
-
----
-
-## Instrumentos
-
-Onde faz sentido, a prática vira instrumento próprio — software construído in-house que continua trabalhando depois que entregamos a chave.
-
-### New Radiant · O Motor
-
-Terminal de cálculo e simulação que projeta o comportamento do Sistema Financeiro Nacional — validação de modelos, stress testing e cenários com agentes calibrados à realidade brasileira. On-premise, criptografado, zero telemetria.
-
-- Validação de modelos internos (PD, LGD, EAD, ECL) sob CMN 4.966
-- Cross-validation regulatória (COSIF × IF.data × SCR)
-- Simulação calibrada ao Brasil — não a média importada
-- Stress testing e cascata de contágio (Monte Carlo, cauda)
-- Memória regulatória viva (sobre o Radiant Memory)
-
-### Radiant Agro · O Campo
-
-Inteligência de risco para o crédito do agronegócio. Do app do produtor à API institucional para bancos e fundos — sob a 4.966 e o IFRS 9.
-
-| Camada | Produto | Para quem |
-|---|---|---|
-| **01 · App** | Radiant App | Produtor — copiloto financeiro da safra |
-| **02 · Research** | Radiant Research | Mercado — relatórios assinados, pressão de caixa, inadimplência |
-| **03 · API** | Radiant API | Credor — score, PD/LGD/EAD/ECL sob 4.966 |
-
-### Radiant Agency · A Operação
-
-Escritório de agentes de IA que opera os instrumentos. Um quadro de doze ofícios — orquestrador, pesquisador, analista, engenheiro, revisor — que pesquisa, analisa e executa. A velocidade de uma equipe inteira, ao custo fixo de uma pessoa.
-
-### Radiant Memory · A Memória *(sob tudo)*
-
-Camada local-first de memória e retrieval para agentes de IA. Integração MCP, busca semântica forte, evolução guiada por benchmark. A memória que sustenta cada instrumento da casa.
-
-- **Longo prazo** — memória de uma instituição inteira, que atravessa anos
-- **Proveniência** — toda lembrança carrega sua origem
-- **Tempo** — o que era verdade em janeiro pode não ser hoje; a memória guarda as duas versões
-
----
-
-## Escopo
-
-| Núcleo | Domínio |
-|---|---|
-| **I** | Capital regulatório — Basileia, 4.966, CADOC. Otimização e adequação. |
-| **II** | Crédito — PD, LGD, EAD, ECL. Modelos, validação, staging. |
-| **III** | Mercado — VaR/ES, marcação, sensibilidades, limites. |
-| **IV** | Liquidez — LCR, NSFR, ALM e fluxo de caixa estressado. |
-| **V** | Operacional — no escopo do risco integrado, por costura. |
-
----
-
-## Regime
 
 <div align="center">
-
-`CMN 4.966` · `IFRS 9` · `BASILEIA` · `PD · LGD · EAD · ECL` · `ICAAP`
-
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fortvna-lema-branco.svg">
+  <img alt="Fortvna, Audaces Fortvna Iuvat" src="assets/fortvna-lema-azul.svg" width="300">
+</picture>
+<br><br>
+<sub>© 2026 Fortvna Risk Solutions</sub>
 </div>
-
-
